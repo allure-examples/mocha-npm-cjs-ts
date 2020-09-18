@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://allure-examples.github.io/allure-typescript-mocha",
+  "buildOrder" : 1,
+  "buildName" : "GitHub Actions Run #261713540",
+  "buildUrl" : "https://github.com/allure-examples/allure-typescript-mocha/actions/runs/261713540",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://allure-examples.github.io/allure-typescript-mocha/1/"
+} ]

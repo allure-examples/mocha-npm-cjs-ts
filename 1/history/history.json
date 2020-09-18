@@ -1,0 +1,22 @@
+{
+  "65b621224d5d8643f53bd3736c3a3bb0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1f44b598e3b20f0b",
+      "reportUrl" : "https://allure-examples.github.io/allure-typescript-mocha/1//#testresult/1f44b598e3b20f0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600459141633,
+        "stop" : 1600459141635,
+        "duration" : 2
+      }
+    } ]
+  }
+}
