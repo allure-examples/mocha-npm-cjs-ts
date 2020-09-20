@@ -1,0 +1,108 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "provide some extra info to your test",
+    "uid" : "379514cc0827af39",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600590186450,
+      "stop" : 1600590186452,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Test epic",
+    "children" : [ {
+      "name" : "Test feature",
+      "children" : [ {
+        "name" : "Test Story",
+        "children" : [ {
+          "name" : "marks test for BDD style",
+          "uid" : "17f320f62c376361",
+          "parentUid" : "c845cf12ab44f14682dfcf6f11dcce3c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1600590186452,
+            "stop" : 1600590186453,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c845cf12ab44f14682dfcf6f11dcce3c"
+      } ],
+      "uid" : "6b0b3858744770d31158d9c9c68f2127"
+    } ],
+    "uid" : "ff78723e6c92ef2b1c96cc6c24525e99"
+  }, {
+    "name" : "should report any test",
+    "uid" : "5bab64ee5e978691",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600590186454,
+      "stop" : 1600590186455,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "add useful links to test",
+    "uid" : "adf69dab777b94de",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600590186454,
+      "stop" : 1600590186454,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "divides test code by blocks",
+    "uid" : "ea6aa5b6c1b1bdc2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1600590186455,
+      "stop" : 1600590186472,
+      "duration" : 17
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "allows nested steps",
+    "uid" : "2a5c36192bd4a685",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600590186472,
+      "stop" : 1600590186473,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "helpful for highlighting common test code usage",
+    "uid" : "fb3cc982573ddf0e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1600590186473,
+      "stop" : 1600590186474,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ],
+  "name" : "behaviors"
+}

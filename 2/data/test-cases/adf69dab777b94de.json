@@ -1,0 +1,42 @@
+{
+  "uid" : "adf69dab777b94de",
+  "name" : "add useful links to test",
+  "fullName" : "add useful links to test",
+  "historyId" : "08546c00d9bc69fc7b8b75ec14485b70",
+  "time" : {
+    "start" : 1600590186454,
+    "stop" : 1600590186454,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Allure link"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "Qameta site",
+    "url" : "http://qameta.io"
+  }, {
+    "name" : "issue-12",
+    "url" : "https://github.com/allure-examples/allure-examples/issues/12",
+    "type" : "issue"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "adf69dab777b94de.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,51 @@
+{
+  "uid" : "379514cc0827af39",
+  "name" : "provide some extra info to your test",
+  "fullName" : "provide some extra info to your test",
+  "historyId" : "8cae61b937b5d7d7ed17bfb15dbc973a",
+  "time" : {
+    "start" : 1600590186450,
+    "stop" : 1600590186452,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5ad6cc150c8a53c4",
+      "name" : "Text attachment name",
+      "source" : "5ad6cc150c8a53c4.txt",
+      "type" : "text/plain",
+      "size" : 19
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Allure attachment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "379514cc0827af39.json",
+  "parameterValues" : [ ]
+}
