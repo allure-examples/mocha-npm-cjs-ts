@@ -1,0 +1,71 @@
+[ {
+  "uid" : "2b00ec8d35a68aca",
+  "name" : "should report any test",
+  "time" : {
+    "start" : 1600690387446,
+    "stop" : 1600690387447,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40d0c08066181ea3",
+  "name" : "allows nested steps",
+  "time" : {
+    "start" : 1600690387468,
+    "stop" : 1600690387468,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c49c4e0937e070e0",
+  "name" : "helpful for highlighting common test code usage",
+  "time" : {
+    "start" : 1600690387468,
+    "stop" : 1600690387469,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3cdd37d51b591de3",
+  "name" : "divides test code by blocks",
+  "time" : {
+    "start" : 1600690387448,
+    "stop" : 1600690387467,
+    "duration" : 19
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "126a752df71f7aaa",
+  "name" : "provide some extra info to your test",
+  "time" : {
+    "start" : 1600690387440,
+    "stop" : 1600690387443,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "688fc7726c225eee",
+  "name" : "add useful links to test",
+  "time" : {
+    "start" : 1600690387446,
+    "stop" : 1600690387446,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "75f6050405f4bbd7",
+  "name" : "marks test for BDD style",
+  "time" : {
+    "start" : 1600690387444,
+    "stop" : 1600690387445,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

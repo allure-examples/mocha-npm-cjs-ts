@@ -1,0 +1,55 @@
+{
+  "uid" : "2b00ec8d35a68aca",
+  "name" : "should report any test",
+  "fullName" : "should report any test",
+  "historyId" : "2eebf7edffeea24a925c7b91bcb73420",
+  "time" : {
+    "start" : 1600690387446,
+    "stop" : 1600690387447,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Allure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "5bab64ee5e978691",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-mocha/2//#testresult/5bab64ee5e978691",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600590186454,
+          "stop" : 1600590186455,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "2b00ec8d35a68aca.json",
+  "parameterValues" : [ ]
+}

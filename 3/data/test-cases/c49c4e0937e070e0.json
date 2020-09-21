@@ -1,0 +1,108 @@
+{
+  "uid" : "c49c4e0937e070e0",
+  "name" : "helpful for highlighting common test code usage",
+  "fullName" : "helpful for highlighting common test code usage",
+  "historyId" : "3a6cfcf170d35b40b579f2cbe1356c69",
+  "time" : {
+    "start" : 1600690387468,
+    "stop" : 1600690387469,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "statusMessage" : "expected false to equal true",
+  "statusTrace" : "AssertionError: expected false to equal true\n    at /home/runner/work/allure-typescript-mocha/allure-typescript-mocha/specs/step.spec.ts:7:24\n    at /home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/allure-js-commons/src/ExecutableItemWrapper.ts:80:18\n    at StepWrapper.run (node_modules/allure-mocha/src/StepWrapper.ts:19:32)\n    at MochaAllure.step (node_modules/allure-mocha/src/MochaAllure.ts:37:28)\n    at /home/runner/work/allure-typescript-mocha/allure-typescript-mocha/specs/step.spec.ts:6:12\n    at /home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/allure-js-commons/src/ExecutableItemWrapper.ts:80:18\n    at StepWrapper.run (node_modules/allure-mocha/src/StepWrapper.ts:19:32)\n    at MochaAllure.step (node_modules/allure-mocha/src/MochaAllure.ts:37:28)\n    at commonStep (specs/step.spec.ts:5:10)\n    at Context.<anonymous> (specs/step.spec.ts:30:5)\n    at processImmediate (internal/timers.js:461:21)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expected false to equal true",
+    "statusTrace" : "AssertionError: expected false to equal true\n    at /home/runner/work/allure-typescript-mocha/allure-typescript-mocha/specs/step.spec.ts:7:24\n    at /home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/allure-js-commons/src/ExecutableItemWrapper.ts:80:18\n    at StepWrapper.run (node_modules/allure-mocha/src/StepWrapper.ts:19:32)\n    at MochaAllure.step (node_modules/allure-mocha/src/MochaAllure.ts:37:28)\n    at /home/runner/work/allure-typescript-mocha/allure-typescript-mocha/specs/step.spec.ts:6:12\n    at /home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/allure-js-commons/src/ExecutableItemWrapper.ts:80:18\n    at StepWrapper.run (node_modules/allure-mocha/src/StepWrapper.ts:19:32)\n    at MochaAllure.step (node_modules/allure-mocha/src/MochaAllure.ts:37:28)\n    at commonStep (specs/step.spec.ts:5:10)\n    at Context.<anonymous> (specs/step.spec.ts:30:5)\n    at processImmediate (internal/timers.js:461:21)",
+    "steps" : [ {
+      "name" : "External step",
+      "time" : {
+        "start" : 1600690387468,
+        "stop" : 1600690387469,
+        "duration" : 1
+      },
+      "status" : "broken",
+      "statusMessage" : "expected false to equal true",
+      "statusTrace" : "AssertionError: expected false to equal true\n    at /home/runner/work/allure-typescript-mocha/allure-typescript-mocha/specs/step.spec.ts:7:24\n    at /home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/allure-js-commons/src/ExecutableItemWrapper.ts:80:18\n    at StepWrapper.run (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/allure-mocha/src/StepWrapper.ts:19:32)\n    at MochaAllure.step (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/allure-mocha/src/MochaAllure.ts:37:28)\n    at /home/runner/work/allure-typescript-mocha/allure-typescript-mocha/specs/step.spec.ts:6:12\n    at /home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/allure-js-commons/src/ExecutableItemWrapper.ts:80:18\n    at StepWrapper.run (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/allure-mocha/src/StepWrapper.ts:19:32)\n    at MochaAllure.step (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/allure-mocha/src/MochaAllure.ts:37:28)\n    at commonStep (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/specs/step.spec.ts:5:10)\n    at Context.<anonymous> (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/specs/step.spec.ts:30:5)\n    at callFn (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/mocha/lib/runnable.js:358:21)\n    at Test.Runnable.run (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/mocha/lib/runnable.js:346:5)\n    at Runner.runTest (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/mocha/lib/runner.js:621:10)\n    at /home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/mocha/lib/runner.js:745:12\n    at next (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/mocha/lib/runner.js:538:14)\n    at /home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/mocha/lib/runner.js:548:7\n    at next (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/mocha/lib/runner.js:430:14)\n    at Immediate._onImmediate (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/mocha/lib/runner.js:516:5)\n    at processImmediate (internal/timers.js:461:21)",
+      "steps" : [ {
+        "name" : "Child step for External step",
+        "time" : {
+          "start" : 1600690387468,
+          "stop" : 1600690387469,
+          "duration" : 1
+        },
+        "status" : "broken",
+        "statusMessage" : "expected false to equal true",
+        "statusTrace" : "AssertionError: expected false to equal true\n    at /home/runner/work/allure-typescript-mocha/allure-typescript-mocha/specs/step.spec.ts:7:24\n    at /home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/allure-js-commons/src/ExecutableItemWrapper.ts:80:18\n    at StepWrapper.run (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/allure-mocha/src/StepWrapper.ts:19:32)\n    at MochaAllure.step (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/allure-mocha/src/MochaAllure.ts:37:28)\n    at /home/runner/work/allure-typescript-mocha/allure-typescript-mocha/specs/step.spec.ts:6:12\n    at /home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/allure-js-commons/src/ExecutableItemWrapper.ts:80:18\n    at StepWrapper.run (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/allure-mocha/src/StepWrapper.ts:19:32)\n    at MochaAllure.step (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/allure-mocha/src/MochaAllure.ts:37:28)\n    at commonStep (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/specs/step.spec.ts:5:10)\n    at Context.<anonymous> (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/specs/step.spec.ts:30:5)\n    at callFn (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/mocha/lib/runnable.js:358:21)\n    at Test.Runnable.run (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/mocha/lib/runnable.js:346:5)\n    at Runner.runTest (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/mocha/lib/runner.js:621:10)\n    at /home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/mocha/lib/runner.js:745:12\n    at next (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/mocha/lib/runner.js:538:14)\n    at /home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/mocha/lib/runner.js:548:7\n    at next (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/mocha/lib/runner.js:430:14)\n    at Immediate._onImmediate (/home/runner/work/allure-typescript-mocha/allure-typescript-mocha/node_modules/mocha/lib/runner.js:516:5)\n    at processImmediate (internal/timers.js:461:21)",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : true,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Allure step"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 2,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "fb3cc982573ddf0e",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-mocha/2//#testresult/fb3cc982573ddf0e",
+        "status" : "failed",
+        "statusDetails" : "expected false to equal true",
+        "time" : {
+          "start" : 1600590186473,
+          "stop" : 1600590186474,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c49c4e0937e070e0.json",
+  "parameterValues" : [ ]
+}

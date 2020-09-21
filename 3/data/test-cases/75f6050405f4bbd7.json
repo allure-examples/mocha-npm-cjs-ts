@@ -1,0 +1,74 @@
+{
+  "uid" : "75f6050405f4bbd7",
+  "name" : "marks test for BDD style",
+  "fullName" : "marks test for BDD style",
+  "historyId" : "eef5190c565b224da446acf51a0a9d19",
+  "time" : {
+    "start" : 1600690387444,
+    "stop" : 1600690387445,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "time" : { },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Allure label"
+  }, {
+    "name" : "epic",
+    "value" : "Test epic"
+  }, {
+    "name" : "feature",
+    "value" : "Test feature"
+  }, {
+    "name" : "story",
+    "value" : "Test Story"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "17f320f62c376361",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-mocha/2//#testresult/17f320f62c376361",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600590186452,
+          "stop" : 1600590186453,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "75f6050405f4bbd7.json",
+  "parameterValues" : [ ]
+}

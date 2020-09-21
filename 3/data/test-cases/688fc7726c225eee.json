@@ -1,0 +1,62 @@
+{
+  "uid" : "688fc7726c225eee",
+  "name" : "add useful links to test",
+  "fullName" : "add useful links to test",
+  "historyId" : "08546c00d9bc69fc7b8b75ec14485b70",
+  "time" : {
+    "start" : 1600690387446,
+    "stop" : 1600690387446,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Allure link"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "Qameta site",
+    "url" : "http://qameta.io"
+  }, {
+    "name" : "issue-12",
+    "url" : "https://github.com/allure-examples/allure-examples/issues/12",
+    "type" : "issue"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "adf69dab777b94de",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-mocha/2//#testresult/adf69dab777b94de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600590186454,
+          "stop" : 1600590186454,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "688fc7726c225eee.json",
+  "parameterValues" : [ ]
+}

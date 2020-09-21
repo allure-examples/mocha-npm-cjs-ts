@@ -1,0 +1,95 @@
+{
+  "uid" : "40d0c08066181ea3",
+  "name" : "allows nested steps",
+  "fullName" : "allows nested steps",
+  "historyId" : "40779030129b8cc3f0bda4b7fca937f5",
+  "time" : {
+    "start" : 1600690387468,
+    "stop" : 1600690387468,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Parent step",
+      "time" : {
+        "start" : 1600690387468,
+        "stop" : 1600690387468,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Child step",
+        "time" : {
+          "start" : 1600690387468,
+          "stop" : 1600690387468,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Allure step"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "2a5c36192bd4a685",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-mocha/2//#testresult/2a5c36192bd4a685",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600590186472,
+          "stop" : 1600590186473,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "40d0c08066181ea3.json",
+  "parameterValues" : [ ]
+}

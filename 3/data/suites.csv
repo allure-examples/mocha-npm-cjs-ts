@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Sep 21 12:13:07 GMT 2020","Mon Sep 21 12:13:07 GMT 2020","1","Allure","","","","","should report any test",""
+"passed","Mon Sep 21 12:13:07 GMT 2020","Mon Sep 21 12:13:07 GMT 2020","0","Allure step","","","","","allows nested steps",""
+"failed","Mon Sep 21 12:13:07 GMT 2020","Mon Sep 21 12:13:07 GMT 2020","1","Allure step","","","","","helpful for highlighting common test code usage",""
+"failed","Mon Sep 21 12:13:07 GMT 2020","Mon Sep 21 12:13:07 GMT 2020","19","Allure step","","","","","divides test code by blocks",""
+"passed","Mon Sep 21 12:13:07 GMT 2020","Mon Sep 21 12:13:07 GMT 2020","3","Allure attachment","","","","","provide some extra info to your test",""
+"passed","Mon Sep 21 12:13:07 GMT 2020","Mon Sep 21 12:13:07 GMT 2020","0","Allure link","","","","","add useful links to test",""
+"passed","Mon Sep 21 12:13:07 GMT 2020","Mon Sep 21 12:13:07 GMT 2020","1","Allure label","","","","","marks test for BDD style",""

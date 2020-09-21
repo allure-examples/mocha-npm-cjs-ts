@@ -1,0 +1,116 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Allure attachment",
+    "children" : [ {
+      "name" : "provide some extra info to your test",
+      "uid" : "126a752df71f7aaa",
+      "parentUid" : "f7bf785d8632da1364fc40f65fe6c494",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600690387440,
+        "stop" : 1600690387443,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f7bf785d8632da1364fc40f65fe6c494"
+  }, {
+    "name" : "Allure label",
+    "children" : [ {
+      "name" : "marks test for BDD style",
+      "uid" : "75f6050405f4bbd7",
+      "parentUid" : "05165b85f4d70cc2d9422090d2ad92f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600690387444,
+        "stop" : 1600690387445,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "05165b85f4d70cc2d9422090d2ad92f4"
+  }, {
+    "name" : "Allure",
+    "children" : [ {
+      "name" : "should report any test",
+      "uid" : "2b00ec8d35a68aca",
+      "parentUid" : "31f0d92aad42f7d752108f8e17390637",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600690387446,
+        "stop" : 1600690387447,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "31f0d92aad42f7d752108f8e17390637"
+  }, {
+    "name" : "Allure link",
+    "children" : [ {
+      "name" : "add useful links to test",
+      "uid" : "688fc7726c225eee",
+      "parentUid" : "0ca80496862f8f0f32664470d7665d49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600690387446,
+        "stop" : 1600690387446,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "0ca80496862f8f0f32664470d7665d49"
+  }, {
+    "name" : "Allure step",
+    "children" : [ {
+      "name" : "divides test code by blocks",
+      "uid" : "3cdd37d51b591de3",
+      "parentUid" : "4ed8a48933df69a182d52e9444bd0639",
+      "status" : "failed",
+      "time" : {
+        "start" : 1600690387448,
+        "stop" : 1600690387467,
+        "duration" : 19
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "allows nested steps",
+      "uid" : "40d0c08066181ea3",
+      "parentUid" : "4ed8a48933df69a182d52e9444bd0639",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600690387468,
+        "stop" : 1600690387468,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "helpful for highlighting common test code usage",
+      "uid" : "c49c4e0937e070e0",
+      "parentUid" : "4ed8a48933df69a182d52e9444bd0639",
+      "status" : "failed",
+      "time" : {
+        "start" : 1600690387468,
+        "stop" : 1600690387469,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4ed8a48933df69a182d52e9444bd0639"
+  } ],
+  "name" : "suites"
+}
