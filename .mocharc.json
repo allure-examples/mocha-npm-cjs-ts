@@ -1,5 +1,0 @@
-{
-  "reporter": "allure-mocha",
-  "require": "ts-node/register",
-  "spec": "./specs/**/*.ts"
-}

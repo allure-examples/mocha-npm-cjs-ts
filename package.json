@@ -1,25 +1,18 @@
 {
+  "name": "mocha-npm-cjs-ts",
   "private": true,
-  "name": "allure-typescript-mocha",
   "version": "1.0.0",
-  "description": "Allure examples for Mocha with TypeScript",
-  "author": "Stanislav Seliverstov <s.seliverstov@gmail.com>",
-  "repository": "https://github.com/allure-examples/allure-typescript-mocha",
-  "license": "Apache-2.0",
   "scripts": {
-    "test": "mocha",
-    "lint": "eslint . --ext .ts"
+    "test": "ts-node ./test/runner.ts"
   },
   "devDependencies": {
-    "@types/chai": "^4.2.12",
-    "@types/mocha": "^8.0.3",
-    "@typescript-eslint/eslint-plugin": "^4.1.1",
-    "@typescript-eslint/parser": "^4.1.1",
-    "allure-mocha": "^2.0.0-beta.8",
-    "chai": "^4.2.0",
-    "eslint": "^7.9.0",
-    "mocha": "^8.1.3",
-    "ts-node": "^9.0.0",
-    "typescript": "^4.0.2"
+    "@types/mocha": "^10.0.8",  
+    "@types/node": "^22.7.3",
+    "typescript": "^5.6.2",
+    "ts-node": "^10.9.2",
+    "allure-js-commons": "^3.0.2",
+    "allure-mocha": "^3.0.2",
+    "glob": "^11.0.0",
+    "mocha": "^10.7.3"
   }
 }
