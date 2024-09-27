@@ -1,22 +1,3 @@
 [ {
-  "buildOrder" : 3,
-  "reportUrl" : "https://allure-examples.github.io/allure-typescript-mocha/3/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 29
-  }
-}, {
-  "buildOrder" : 2,
-  "reportUrl" : "https://allure-examples.github.io/allure-typescript-mocha/2/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 24
-  }
-}, {
-  "buildOrder" : 1,
-  "reportUrl" : "https://allure-examples.github.io/allure-typescript-mocha/1/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 2
-  }
+  "data" : { }
 } ]
