@@ -1,2 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Sep 18 19:59:01 GMT 2020","Fri Sep 18 19:59:01 GMT 2020","2","Hello function","","","","","should return hello world",""
